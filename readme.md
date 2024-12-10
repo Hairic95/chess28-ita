@@ -26,7 +26,7 @@ Qui stanno le regole base di [Chess28](https://planetsmashergames.com/chess28) �
 ### Regola del massacro
 In questo gioco, se è una regola è chiara, scegli l'opzione che porterebbe al maggiore numero di vittime. Questa è la **Regola del massacro**.
 
-#### Termini di gioco
+### Termini di gioco
 In queste regole, vedrai alcuni termini di gioco scritti **In questo modo**. Dopo che un nuovo termine di gioco viene introdotto e definitio, apparirà in semplicemente in questo modo, tuttavia sarà carico del significato spiacle che ora capirai.
 
 ### Altre regole specifiche
@@ -70,24 +70,24 @@ Se le regole dovessere chiedere di muovere a caso un modello o oggetto o determi
 
 
 
-## Anatomy of a Model
-Models have a **Facing**, and a **Character Card** which lists all their stats.
+## Anatomia di un modello
+Ogni modello ha una **Direzione** e una **Carta Personaggio** che elenca ogni sua statistica.
 
-Facing must always be one of North, South, East or West, not diagonal. If the facing of the model is not clear from its pose or base, put a mark on the base to indicate its facing.
+La direzione deve essere una fra Nord, Sud, Est o Ovest, non può essere diagonale. Se la direzione di un modello non è chiara dalla posa o dalla base, metti un segnalino sulla base per indicare dove il modello si affaccia.
 
-### Anatomy of a Character Card
-* **Unit Name**
-* **Cost**: the cost to include this model in your warband.
-* **Move Chart:** shows where the model can move to. The chart is oriented relative to the model’s current facing, with the solid directional block (▲) indicating the model’s current square.
-* **Attack Chart**: shows where the model can attack. The sword icons (🗡️) indicate the model’s Melee Range.
-* **Special Abilities**: lists any special abilities the model has, including any Ranged Weapons.
-    * For **Ranged Weapons**, the arrows tell you which directions the model can shoot in, plus the attack’s Range and Strength).
-* **Fight value:** used when making Melee Attacks.
-* **Health Points (HP):** the number of wounds the model can suffer before it is dead.
-* **Defence value:** used when targeted by an attack.
+### Anatomia di una Carta Personaggio
+* **Nome unità**
+* **Costo**: il costo per includere questo personaggio nella tua banda.
+* **Tabella di Marcia:** indica come e dove il modello si può spostare. La tabella è orientata rispetto alla direzione attuale del modello, con un blocco direzionale (▲) che indica la casella attuale del modello.
+* **Tabella d'Attacco**: indica come e dove il modello può attaccare. L'icona della spada (🗡️) indica la Distanza degli attacchi corpo a corpo del modello.
+* **Abilità Speciali**: elenca ogni abilità speciale che il modello ha, incluse Armi a Distanza.
+    * Per le **Armi a Distanza**, la freccia indica verso quale direzione il modello può sparare, insieme alla Distanza e Forza dell'attacco.
+* **Valore di Lotta:** usato quando si fanno attacchi corpo a corpo.
+* **Punti Vita (PV):** il numero di ferite che il modello può sostenere prima di morire.
+* **Valore di Difesa:** usato quando si è bersaglio di un attacco.
 
 
-### Squares
+### Caselle
 
 A single square may only ever contain a single model, although it may contain both a model and any number of objects or tokens (such as treasure chests or wound tokens).
 
