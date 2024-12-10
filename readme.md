@@ -1,6 +1,7 @@
-# Chess28 Core Rules System
+# Regole base per il sistema Chess28
+(Testo originiale di [Mike Hutchinson](https://planetsmashergames.com/), traduzione di [Enrico Rossetti](https://hairic.itch.io/))
 
-## #chess28 Manifesto
+## Manifesto di Chess28
 We seek to liberate the chess board from a millennium of tedium. Let the richly-painted warriors of a thousand worlds battle across their checkered fields! Let the clatter of dice despoil their cold and logical perfection! Let the chess board be a playground of the imagination!
 
 1. We demand that chess be miniatures-agnostic. If a game prostitutes the chess board to the pageantry of painted figures, let it be #chess28. 
@@ -17,28 +18,28 @@ If you are inspired to make a #chess28 game, you are welcome to use my core rule
 [Chess28 Core Rules System](https://planetsmashergames.com/chess28) © 2024 by [Mike Hutchinson](https://planetsmashergames.com/) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
 
-# Core Rules
-Herein lies the Core Rules of [Chess28](https://planetsmashergames.com/chess28) © 2024 by [Mike Hutchinson](https://planetsmashergames.com/) is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
+# Regole base
+Qui stanno le regole base di [Chess28](https://planetsmashergames.com/chess28) © 2024 di [Mike Hutchinson](https://planetsmashergames.com/) sotto licenza [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
-## Rules Conventions
+## Regole e Convenzioni
 
-### Rule of Carnage
-In this game, if a rule is unclear, choose whichever option results in the most carnage for all concerned. This is **The Rule Of Carnage**.
+### Regola del massacro
+In questo gioco, se è una regola è chiara, scegli l'opzione che porterebbe al maggiore numero di vittime. Questa è la **Regola del massacro**.
 
-#### Game Terms
-Throughout these rules, you will see game terms introduced **Like This**. After a new game term has been introduced and defined, it will then appear as plain English from then on, like this, albeit loaded with the special meaning you now understand.
+#### Termini di gioco
+In queste regole, vedrai alcuni termini di gioco scritti **In questo modo**. Dopo che un nuovo termine di gioco viene introdotto e definitio, apparirà in semplicemente in questo modo, tuttavia sarà carico del significato spiacle che ora capirai.
 
-### More Specific Rules
-The text of a specific rule can conflict with the general rules. In case of a conflict, the text relating to the more specific circumstance overrides the more general rule.
+### Altre regole specifiche
+Il testo di una regola specifica può essere in conflitto con una regola generale. In casi come questo, la regola legata alla circostanza più specifica sovrascrive la regola generale.
 
-### Simultaneous Effects
-If the effects of multiple rules appear to occur at the same time, the player whose turn it is decides the order of resolution. If this is unclear for any reason, roll-off and the winner of the roll-off decides the order of resolution.
+### Effetti simulatanei
+Se gli effetti di molteplici regole accadono allo stesso momento, il giocatore che sta giocando il turno decide l'ordine di risoluzione. Se questo non dovesse essere chiaro, i giocatori fanno uno spareggio e il vincitore decide l'ordine di risoluzione.
 
-### Roll-Off
-Whenever a roll-off is required, both players roll a D6 and the player with the highest result is the winner of the roll-off. In the event of a tie, the players roll-off again.
+### Spareggio
+Ogniqualvolta è necessario fare uno spareggio, entrambi i giocatori lanciano un D6 e il giocatore con il risultato più alto vince lo spareggio. In caso di parità, si fa un nuovo lancio di dadi per lo spareggio.
 
-### Scattering
-If the rules ask for you to scatter a model or object, or to determine a random direction: pick a board edge and roll a D8. Consult this chart, with the ‘1-3’ results being the squares closest to the selected board edge.
+### Dispersione
+Se le regole dovessere chiedere di muovere a caso un modello o oggetto o determinare una direzione a caso: scegli un bordo e lancia un D8. Dopodichè consulta la seguente tabella, assengando i risultati ‘1-3’ alle caselle vicine al bordo scelto.
 
 <table>
   <tr>
